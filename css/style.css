@@ -1,5 +1,5 @@
 body{
-    font-family: arial, sans-serif;
+    font-family: arial, Verdana;
     background-color: #000000;
     color: #ffffff;
     margin-top: 20px;
@@ -59,7 +59,7 @@ div{
     text-align: right;
     margin-left: 50px;
     border-left: 5px solid #000000;
-    border-buttom: 2px solid #000000;
+    border-bottom: 2px solid #000000;
 }
 .yellow p {
     color: #707070;
